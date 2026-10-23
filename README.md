@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Tingyu Wang
 
-<!--
-**R1ceSh0werr/R1ceSh0werr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science and Mathematics undergraduate student at Northeastern University.
 
-Here are some ideas to get you started:
+I'm interested in software development, algorithms, and applying computer science concepts to practical problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Technical Skills
+- **Languages:** Java, Python, Racket
+- **Tools:** Git, JUnit, Gradle
+- **Concepts:** Object-Oriented Programming, Unit Testing, Data Structures and Algorithms
+
+### Course Projects
+
+**CookYourBooks — Recipe Management System (Java)**
+
+Implemented recipe scaling, unit conversion, collection management, search functionality, and Markdown export. Applied object-oriented design principles and wrote JUnit tests.
+
+**Multi-Agent Pac-Man AI (Python)**
+
+Implemented Minimax, Alpha-Beta Pruning, and Expectimax search agents, and designed evaluation functions for game-state analysis.
+
+### Education
+
+**Northeastern University**
+
+B.S. in Computer Science and Mathematics
+
+Expected Graduation: May 2027
