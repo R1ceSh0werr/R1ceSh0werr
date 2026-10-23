@@ -11,11 +11,11 @@ I'm interested in software development, algorithms, and applying computer scienc
 
 ### Course Projects
 
-**CookYourBooks — Recipe Management System (Java)**
+#### CookYourBooks — Recipe Management System (Java)
 
 Implemented recipe scaling, unit conversion, collection management, search functionality, and Markdown export. Applied object-oriented design principles and wrote JUnit tests.
 
-**Multi-Agent Pac-Man AI (Python)**
+#### Multi-Agent Pac-Man AI (Python)
 
 Implemented Minimax, Alpha-Beta Pruning, and Expectimax search agents, and designed evaluation functions for game-state analysis.
 
